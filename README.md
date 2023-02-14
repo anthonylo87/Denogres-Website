@@ -32,12 +32,29 @@ DenoGres includes some functionality that is still in development - including da
 ## Documents
 More information on how to use DenoGres and leverage all its wonderful abstraction functionality can be found here: https://denogres.deno.dev/
 
-## Contributors
-- Ben Engelberg | [GitHub](https://github.com/bengelberg) | [LinkedIn](https://linkedin.com/in/benengelberg)
-- Moonhee Hur | [GitHub](https://github.com/mhurcs) | [LinkedIn](https://linkedin.com/in/moonheehur)
-- Tesia Hwang | [GitHub](https://github.com/tesiahwang) | [LinkedIn](https://linkedin.com/in/tesia-hwang)
-- Kristen Lu | [GitHub](https://github.com/kristenlu24) | [LinkedIn](https://linkedin.com/in/kristen-lu)
-- Allison Roderiques | [GitHub](https://github.com/allirod) | [LinkedIn](https://linkedin.com/in/allison-roderiques)
+### Version 2.0
+
+- Anthony Lo | [GitHub](https://github.com/anthonylo87) |
+  [LinkedIn](https://linkedin.com/in/87anthonylo/)
+- Henry Park | [GitHub](https://github.com/CodeDenma) |
+  [LinkedIn](https://linkedin.com/in/henrytpark/)
+- Carlos Villarreal | [GitHub](https://github.com/Jiggyloww) |
+  [LinkedIn](https://linkedin.com/in/carlosvillarrealsb)
+- Eddie Wu | [GitHub](https://github.com/edi-wu) |
+  [LinkedIn](https://linkedin.com/in/edi-wu)
+
+### Version 1.0
+
+- Ben Engelberg | [GitHub](https://github.com/bengelberg) |
+  [LinkedIn](https://linkedin.com/in/benengelberg)
+- Moonhee Hur | [GitHub](https://github.com/mhurcs) |
+  [LinkedIn](https://linkedin.com/in/moonheehur)
+- Tesia Hwang | [GitHub](https://github.com/tesiahwang) |
+  [LinkedIn](https://linkedin.com/in/tesia-hwang)
+- Kristen Lu | [GitHub](https://github.com/kristenlu24) |
+  [LinkedIn](https://linkedin.com/in/kristen-lu)
+- Allison Roderiques | [GitHub](https://github.com/allirod) |
+  [LinkedIn](https://linkedin.com/in/allison-roderiques)
 
 ## License
 MIT
